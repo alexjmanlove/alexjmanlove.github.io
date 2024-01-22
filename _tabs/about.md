@@ -17,7 +17,5 @@ order: 1
 
 🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alexandermanlove/) or [GitHub](https://github.com/alexjmanlove). I'm always open to discussing new ideas, collaborations, or opportunities.
 
-🤼‍♂️🥋 In my free time I'm obsessed with submission grappling arts, such as Judo, Brazilian Jiu Jitsu and Wrestling. 
-
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
