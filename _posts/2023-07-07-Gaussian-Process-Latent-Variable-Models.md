@@ -314,7 +314,7 @@ Note, that the expression in previous line is simply the trace of the derived RH
 
 ## **Python Comparison of PCA and GPLVM**
 
-In this section we will qualitatively compare PCA and GPLVMs using `Python`. For the GPLVMs we will use the `GPy` library, developed by the SheffieldML group: [http://sheffieldml.github.io/GPy/](http://sheffieldml.github.io/GPy/).
+In this section we will qualitatively compare PCA and GPLVMs using `Python`. For the GPLVMs we will use the `GPy` library, developed by the SheffieldML group: [https://sheffieldml.github.io/GPy/](https://sheffieldml.github.io/GPy/).
 `GPy` is a lightweight high level API that allows quick and easy implementation of GP models akin to `scikit-learn`. For more in-depth problems, we may resort to other libraries such as `GPyTorch` or `GPflow`, (built on `PyTorch` and `TensorFlow` respectively), which allow for more granular control and customisation of the GP model formulation and training procedures.
 
 These examples are generated using `Python v3.8.16`. 
