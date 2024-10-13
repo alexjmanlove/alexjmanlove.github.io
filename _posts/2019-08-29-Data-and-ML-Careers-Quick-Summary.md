@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Data and ML Careers Quick Summary
 date: 2019-08-29
 categories: [Career]
@@ -69,4 +69,4 @@ Another technical role. Works on deploying and maintaining the models that are t
 
 - **Summary**:
     - **Tech Stack**:    SQL,    Java/Scala,    Python,    JavaScript,    C#,    C++.
-    - **Typical Education**:    MSc Computer Science,    MSc Software Engineering. 
+    - **Typical Education**:    MSc Computer Science,    MSc Software Engineering.  -->

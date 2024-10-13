@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Notes on Linear Regression
 date: 2020-03-08
 categories: [Statistics]
@@ -304,4 +304,4 @@ Code Block
 
 - https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1308&context=pare 
 - https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote08.html
-- https://www.youtube.com/watch?v=YIfANKRmEu4&t=6s
+- https://www.youtube.com/watch?v=YIfANKRmEu4&t=6s -->
